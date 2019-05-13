@@ -9,4 +9,8 @@ public class TestGit {
 	public void say(){
 		System.out.println("this is the first git project!");
 	}
+	
+	public void say2(){
+		System.out.println("this is the first git project!");
+	}
 }
