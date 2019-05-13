@@ -8,6 +8,7 @@ public class TestGit {
 	
 	public void say(){
 		int a = 3;
+		int b = 3;
 		System.out.println("this is the first git project!");
 	}
 	
