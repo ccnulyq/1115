@@ -13,4 +13,8 @@ public class TestGit {
 	public void say2(){
 		System.out.println("this is the first git project!");
 	}
+	
+	public void testBranch(){
+		System.out.println("在dev分支上开发代码");
+	}
 }
